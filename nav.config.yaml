@@ -5,7 +5,7 @@
 # Fork 用户通常只需要修改 gitRepoUrl ，其他默认处理
 
 # 仓库地址
-gitRepoUrl: https://github.com/xjh22222228/nav
+gitRepoUrl: https://github.com/mzsnjs/mzsnjs
 
 # Gitee | GitHub
 provider: GitHub
